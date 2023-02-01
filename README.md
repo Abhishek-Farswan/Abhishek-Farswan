@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek-Farswan
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning NodeJS and ReactJS
+- 🌱 I’m currently working as a Full Stack developer (Java Microservices + Angular)
 - 💞️ I’m looking to collaborate on backend, frontend, database and cloud.
 - 📫 How to reach me 
 - Email me at: abhishek.farswan@gmail.com
